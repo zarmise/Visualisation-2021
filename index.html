@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="header">
+    <h1>Covid Map and Statistics - 2021 Update</h1>
+  </div>
+
+  <div class="container">
+    <div id="map"></div>
+
+    <div id="data" class="data">
+
+      <div class="country-info">
+        <div class="title">
+          <img id="flag" src="" />
+          <span id="country-name"></span>
+        </div>
+
+        <div class="stats">
+          <div class="row">
+            <span>Active Cases</span><span id="active">-</span>
+          </div>
+
+          <div class="row">
+            <span>Confirmed Cases</span><span id="confirmed">-</span>
+          </div>
+
+          <div class="row">
+            <span>Recovered Cases</span><span id="recovered">-</span>
+          </div>
+
+          <div class="row">
+            <span>Deaths</span><span id="deaths">-</span>
+          </div>
+
+          <div class="row">
+            <span>Incident Rate</span><span id="rate">-</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+
+  <script src="https://datamaps.github.io/scripts/0.4.4/datamaps.world.min.js"></script>
+
+  <script src="countries.js"></script>
+  <script src="script.js"></script>
+
+</body>
+
+</html>
