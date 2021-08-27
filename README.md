@@ -1,9 +1,13 @@
 ## Data Visualization Course Project
- > Supervised by Professor Isaac Pante (SLI, Lettres, University of Lausanne (UNIL))
+ > Supervised by Professor Isaac Pante (SLI, Lettres, University of Lausanne)
  
  
 
 ## Global Covid-19 data by map
+
+### Description 
+This project presents a world wide map on which by clicking on each country we can see the it's name, the flag and the data of Covid-19 according to the United Nation's statistics. 
+
 
 In this work I have used the function of  "CearteMap" for creating the map. In continue, I have used the library of "Datamap". For options, I defined 
 scope: "world" in order to have a worldwide map.
