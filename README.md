@@ -1,5 +1,6 @@
 ## Data Visualization Course Project
  > supervised by Professor I. Pante.
+ > 
   University of Lausanne (UNIL)- Spring 2021
 
 
