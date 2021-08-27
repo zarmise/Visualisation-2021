@@ -1,3 +1,10 @@
+##Data Visualization Course Project
+#supervised by Professor I. Pante.
+#University of Lausanne (UNIL)- Spring 2021
+
+
+##Global Covid-19 data by map
+
 # Visualisation-2021
 In this work I have used the function of  "CearteMap" for creating the map. In continue, I have used the library of "Datamap". For options, I defined 
 scope: "world" in order to have a worldwide map.
