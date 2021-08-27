@@ -1,8 +1,7 @@
 ## Data Visualization Course Project
- > Supervised by Professor Isaac Pante (SLI, Lettres, UNIL)
- > 
-  University of Lausanne (UNIL)- Spring 2021
-
+ > Supervised by Professor Isaac Pante (SLI, Lettres, University of Lausanne (UNIL))
+ 
+ 
 
 ## Global Covid-19 data by map
 
