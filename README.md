@@ -1,6 +1,6 @@
 ## Data Visualization Course Project
-## supervised by Professor I. Pante.
-## University of Lausanne (UNIL)- Spring 2021
+ supervised by Professor I. Pante.
+ University of Lausanne (UNIL)- Spring 2021
 
 
 ## Global Covid-19 data by map
