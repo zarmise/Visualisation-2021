@@ -26,7 +26,9 @@ the popupTemplate can returns a HTML ,  in the returned HTML we can see the flag
 The keys of the map (countries) are defined based on `ISO3` standard.
 > i.e Iran : `IRN`, United states of America : `USA`.
 
-By "data.find" we can get the data of each country ( defined as attributes) and then by showData the countries name, their flag and the whole data of each one is set.
+By `"data.find"` we can get the data of each country ( defined as attributes) and then by `showData` the countries name, their flag and the whole data of each one is set.
+
+
 for countries flags, I used a project i found in github but the problem was that this project is by ISO2 (i.e Iran : IR, United states of America : US) 
 so I made a library by the name "countries.js" in which I defined the name and code of each country, its ISO2 and ISO3 so I could solve the problem. 
 
@@ -37,4 +39,4 @@ All the data in this visualization come from the website of the [United Nation.]
 
 
 ## Tools
-This project was generated using the D3 library.
+This project was generated using the library of "Datamap" and D3.
