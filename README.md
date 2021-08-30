@@ -6,7 +6,7 @@
 ## Global Covid-19 data on the map
 
 ### Description 
-This project presents a world wide map on which by clicking on each country we can see it's name, the flag and the data of Covid-19 according to the United Nation's statistics. 
+This project presents a world wide map on which by clicking on each country we can see it's name, the flag and the data of Covid-19 according to the [United Nation's statistics.] 
 (https://covid-19-data.unstatshub.org/datasets/1cb306b5331945548745a5ccd290188e_2/api "United Nation's statistics")
 
 In this work I have used the function of  "CearteMap" for creating the map. In continue, I have used the library of "Datamap". For options, I defined 
