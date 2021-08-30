@@ -20,8 +20,9 @@ fills: is defined for how the countries are colored and shown on the map. for th
 > If the incident rate of a country is <300  it's defined as "low"  
  incident rate >=300 : "medium"  
  incident rate >=700 and <1500 : "hight"  
- and >=1500 : "veryhight"  
- Then, fill keys are defined as :  
+ and >=1500 : "veryhight" 
+ 
+ Then,  I defined the fill keys:    
  > Low : "green"  
  > Medium: "yellow"  
  > Hight: "orange"  
