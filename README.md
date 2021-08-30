@@ -21,13 +21,13 @@ fills: is defined for how the countries are colored and shown on the map. for th
  incident rate >=300 : "medium"  
  incident rate >=700 and <1500 : "hight"  
  and >=1500 : "veryhight"  
-Then, fill keys are defined as : 
-Low : "green", 
-Medium: "yellow",
-Hight: "orange" ,
-VeryHight: "red", 
+ Then, fill keys are defined as :  
+ > Low : "green"  
+ > Medium: "yellow"  
+ > Hight: "orange"  
+ > VeryHight: "red"   
 I used the popupTemplate option in DataMaps for customizing the pop up of the countries. 
-the popupTemplate can returns a HTML ,  in the returned HTML we can see the flag of each country and it's summary of active, confirmed, dead, and recovered cases. 
+the popupTemplate can returns a HTML and in the returned HTML we can see the flag of each country and it's summary of active, confirmed, dead, and recovered cases. 
 
 The keys of the map (countries) are defined based on `ISO3` standard.
 > i.e Iran : `IRN`, United states of America : `USA`.
