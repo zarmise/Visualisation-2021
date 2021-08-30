@@ -17,8 +17,8 @@ element : document.getElementBYID ('map')
 for the place of rendering the map responsive: is set "true" for being responsive.
 
 fills: is defined for how the countries are colored and shown on the map. for this aim, I used the "incident rate" to define different colors.
-> If the incident rate of a country is <300  it's defined as "low",
-> incident rate >=300 : "medium"  
+> If the incident rate of a country is <300  it's defined as "low"  
+> > incident rate >=300 : "medium"  
 > incident rate >=700 and <1500 : "hight"  
 > and >=1500 : "veryhight"  
 Then, fill keys are defined as : 
