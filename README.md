@@ -18,9 +18,9 @@ for the place of rendering the map responsive: is set "true" for being responsiv
 
 fills: is defined for how the countries are colored and shown on the map. for this aim, I used the "incident rate" to define different colors.
 > If the incident rate of a country is <300  it's defined as "low"  
-> > incident rate >=300 : "medium"  
-> incident rate >=700 and <1500 : "hight"  
-> and >=1500 : "veryhight"  
+ incident rate >=300 : "medium"  
+ incident rate >=700 and <1500 : "hight"  
+ and >=1500 : "veryhight"  
 Then, fill keys are defined as : 
 Low : "green", 
 Medium: "yellow",
